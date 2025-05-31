@@ -1,1 +1,1 @@
-worker: python quizbot.py
+worker: python openb.py
